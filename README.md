@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Mukesh Reddy</h1>
-  <h3>AI/ML Developer | Data Engineer | Software Innovator</h3>
+  <h3>Data Scientist | Data Engineer | .NET Developer</h3>
 </div>
 
 ---
@@ -14,12 +14,10 @@
 - 🔭 Currently working on cutting-edge **AI/ML solutions** and **generative AI** projects.  
 - 🌱 Learning **LangChain**, **AutoMLOps**, and exploring **semantic search optimizations**.  
 - 👯 Open to collaborating on **open-source projects**, **AI-driven platforms**, and impactful tools.  
-- 💬 Ask me about **AI/ML**, **data engineering**, or **deploying scalable applications**.  
+- 💬 Ask me about **Databases**, **Deep Learning**, **AI/ML**, **data engineering**, or **deploying scalable applications**.  
 - 🎯 Goal: To build solutions that make a real difference in industries like **healthcare**, **finance**, and **education**.
 
 ---
-
-### 🔨 Tech Stack
 
 ### 🔨 Tech Stack
 
