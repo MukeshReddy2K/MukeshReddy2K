@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mukesh Reddy Mavurapu!
+<div align="center">
+    <h1> 👋 Hi, I'm Mukesh Reddy Mavurapu!</h1>
+</div>
 
 🚀 **Data Scientist | Data Engineer | .NET Full-Stack Developer**  
 🔍 **Building scalable AI solutions and crafting impactful software applications.**  
@@ -32,7 +34,10 @@ I am a passionate AI/ML developer with 4.5+ years of experience building and dep
 - Docker, GitHub, AWS CodePipeline, Apache Airflow  
 
 ### **Business Intelligence**
-- Tableau, Power BI, Alteryx  
+- Tableau, Power BI, Alteryx
+  
+### **Database**
+- MS SQL Server, PostgreSQL, MySQL, DynamoDB, Aurora
 
 ---
 
@@ -60,17 +65,9 @@ I am a passionate AI/ML developer with 4.5+ years of experience building and dep
 
 ---
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MukeshReddy2K&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshReddy2K&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect!
 
-- **LinkedIn**: [[Mukesh Reddy on LinkedIn]](https://www.linkedin.com/in/mukesh-mavurapu/)(#)  
+- **LinkedIn**: [Mukesh Reddy on LinkedIn](https://www.linkedin.com/in/mukesh-mavurapu/)
 - **Email**: [mukeshreddymavurapu@gmail.com](mailto:mukeshreddymavurapu@gmail.com)  
 
 ---
