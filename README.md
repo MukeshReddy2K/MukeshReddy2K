@@ -1,75 +1,56 @@
 <div align="center">
-    <h1> 👋 Hi, I'm Mukesh Reddy Mavurapu!</h1>
+  <img src="https://user-images.githubusercontent.com/xxxxx/banner-image.gif" alt="Welcome Banner" width="100%" />
 </div>
 
-🚀 **Data Scientist | Data Engineer | .NET Full-Stack Developer**  
-🔍 **Building scalable AI solutions and crafting impactful software applications.**  
+<div align="center">
+  <h1>Hi there 👋, I'm Mukesh Reddy</h1>
+  <h3>AI/ML Developer | Data Engineer | Software Innovator</h3>
+</div>
 
 ---
 
-## 📝 About Me
+### 🚀 About Me
 
-I am a passionate AI/ML developer with 4.5+ years of experience building and deploying cutting-edge machine learning models, automating workflows, and integrating generative AI solutions. With expertise in cloud platforms like AWS and Azure, I specialize in creating scalable applications that solve real-world problems.
-
-- 🎓 **Education**:  
-  - **Master of Science in Engineering Data Science** - University of Houston  
-  - **Bachelor of Technology in Electrical and Electronics** - NIT Calicut  
-
-- 🌱 Currently exploring advanced AI/ML tools and frameworks like **LangChain**, **LLaMA**, and **generative AI** for semantic search and real-time applications.
+- 🔭 Currently working on cutting-edge **AI/ML solutions** and **generative AI** projects.  
+- 🌱 Learning **LangChain**, **AutoMLOps**, and exploring **semantic search optimizations**.  
+- 👯 Open to collaborating on **open-source projects**, **AI-driven platforms**, and impactful tools.  
+- 💬 Ask me about **AI/ML**, **data engineering**, or **deploying scalable applications**.  
+- 🎯 Goal: To build solutions that make a real difference in industries like **healthcare**, **finance**, and **education**.
 
 ---
 
-## 💻 Skills
+### 🔨 Tech Stack
 
-### **Programming**
-- Python, R, SQL, C#, VBA, JavaScript  
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
 
-### **AI/ML Frameworks**
-- TensorFlow, Keras, H2O, LangChain  
+**Cloud & Big Data**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat)
 
-### **Big Data & Cloud**
-- Hadoop, Spark, Databricks, AWS, Azure, Snowflake  
-
-### **DevOps & Tools**
-- Docker, GitHub, AWS CodePipeline, Apache Airflow  
-
-### **Business Intelligence**
-- Tableau, Power BI, Alteryx
-  
-### **Database**
-- MS SQL Server, PostgreSQL, MySQL, DynamoDB, Aurora
-
----
-
-## 🔥 Experience
-
-### **Research Assistant**  
-**Measurement and Evaluation Center, USA**  
-*(Jan 2023 – Current)*  
-- Deployed **.NET web applications** and fine-tuned **LLaMA3 70B** models, improving comment summarization accuracy by 20%.  
-- Exposed models as REST APIs via **Azure Kubernetes Service (AKS)** for seamless integration with .NET.  
-- Processed over 46,000 evaluations using **Azure Functions** and **MS SQL Server**, enhancing reporting speed by 30%.  
-
-### **Data Science Analyst**  
-**Accenture, India**  
-*(Jun 2021 – Dec 2022)*  
-- Designed **AWS Lambda pipelines** for risk profiling, reducing processing time by 50%.  
-- Deployed predictive ML models using **H2O Driverless AI** for financial data analysis.  
-- Built scalable **Hadoop and Spark** pipelines, optimizing genomic data processing for fault tolerance.
-
-### **Data Analyst Intern**  
-**Mainavi Solutions, India**  
-*(Jun 2020 – Apr 2021)*  
-- Developed and deployed **XGBoost models** for IoT sensor failure predictions, reducing equipment downtime by 25%.  
-- Built real-time dashboards in **Amazon QuickSight**, monitoring performance metrics.  
+**Tools & Technologies**  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black&style=flat)
 
 ---
 
-## 🌐 Let's Connect!
+### 🤝 Let's Connect!
 
-- **LinkedIn**: [Mukesh Reddy on LinkedIn](https://www.linkedin.com/in/mukesh-mavurapu/)
-- **Email**: [mukeshreddymavurapu@gmail.com](mailto:mukeshreddymavurapu@gmail.com)  
+- 💼 **LinkedIn**: [Mukesh Reddy on LinkedIn](https://www.linkedin.com/in/mukesh-mavurapu/)  
+- 📧 **Email**: [mukeshreddymavurapu@gmail.com](mailto:mukeshreddymavurapu@gmail.com)  
+- 🐦 **Twitter**: [@MMukeshReddy3](https://x.com/MMukeshReddy3)  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MukeshReddy2K&color=blue&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-### 🌟 "Driven by curiosity, inspired by innovation!"
+### 🌟 Fun Fact  
+"AI doesn’t just predict the future; it creates possibilities we’ve yet to imagine!"
