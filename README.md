@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Mukesh Reddy</h1>
-  <h3>Data Scientist | Data Engineer | .NET Developer</h3>
+  <h3>Data Scientist | Data Analyst | .NET Developer</h3>
 </div>
 
 ---
