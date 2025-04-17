@@ -16,7 +16,6 @@
 - 👯 Open to collaborating on **open-source projects**, **AI-driven platforms**, and impactful tools.  
 - 💬 Ask me about **Databases**, **Deep Learning**, **AI/ML**, **data engineering**, or **deploying scalable applications**.  
 - 🎯 Goal: To build solutions that make a real difference in industries like **healthcare**, **finance**, and **education**.
-- 🧾 For more details, view my resume: [Resume](https://github.com/MukeshReddy2K/Resume/blob/main/Mukesh%20Reddy%20Mavurapu_3_FT.pdf)
 
 ---
 
