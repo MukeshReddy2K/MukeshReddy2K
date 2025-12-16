@@ -4,18 +4,19 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Mukesh Reddy</h1>
-  <h3>Data Scientist | Data Analyst | .NET Developer</h3>
+  <h3>Data Analyst | Data Scientist</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on cutting-edge **AI/ML solutions** and **generative AI** projects.  
-- 🌱 Learning **LangChain**, **AutoMLOps**, and exploring **semantic search optimizations**.  
-- 👯 Open to collaborating on **open-source projects**, **AI-driven platforms**, and impactful tools.  
-- 💬 Ask me about **Databases**, **Deep Learning**, **AI/ML**, **data engineering**, or **deploying scalable applications**.  
-- 🎯 Goal: To build solutions that make a real difference in industries like **healthcare**, **finance**, and **education**.
+- Architected a Cancer Center data product by modeling clinical datasets in **SQL Server**.
+- Currently working on cutting-edge **AI/ML solutions** and **generative AI** projects.  
+- Learning **LangChain**, **AutoMLOps**, and exploring **semantic search optimizations**.  
+- Open to collaborating on **open-source projects**, **AI-driven platforms**, and impactful tools.  
+- Ask me about **Databases**, **Deep Learning**, **AI/ML**, **data engineering**, or **deploying scalable applications**.  
+- Goal: To build solutions that make a real difference in industries like **healthcare**, **finance**, and **education**.
 
 ---
 
