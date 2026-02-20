@@ -4,9 +4,8 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Mukesh Reddy</h1>
-  <h3>Data Analyst| Analytics Engineer | Data Scientist</h3>
 </div>
-I have worked across the data and analytics spectrum, starting as a Data Analyst building dashboards and data preprocessing workflows, then moving into Data Engineering where I designed and maintained large-scale cloud data pipelines using AWS, Databricks, Kafka, Snowflake, and ML platforms. Working across multiple client and academic projects, I gained experience handling production-scale data systems and understanding how analytics, engineering, and ML come together in real-world environments. At the Measurement and Evaluation Center and Houston Methodist, I worked in small, fast-moving teams, contributing across analytics engineering, data engineering, and AI engineering, including healthcare-focused data modeling, compliant research analytics, and AI-driven solutions for statistical analysis and hypothesis generation. I am seeking roles in data analytics, analytics engineering, data science, or AI and ML where the focus is on building impactful, end-to-end data and analytics solutions rather than being limited by a specific title.
+I have worked across the data spectrum, starting as a Data Analyst building dashboards and data preprocessing workflows, then moving into Data Engineering where I designed and maintained large-scale cloud data pipelines using AWS, Databricks, Kafka, Snowflake, and ML platforms. Working across multiple client and academic projects, I gained experience handling production-scale data systems and understanding how analytics, engineering, and ML come together in real-world environments. I worked in small, fast-moving teams, contributing across analytics engineering, data engineering, and AI engineering, including healthcare-focused data modeling, compliant research analytics, and AI-driven solutions for statistical analysis and hypothesis generation.
 
 ### 🚀 About Me
 
@@ -14,7 +13,6 @@ I have worked across the data and analytics spectrum, starting as a Data Analyst
 - Currently working on cutting-edge **AI/ML solutions** and **generative AI** projects.  
 - Learning **LangChain**, **AutoMLOps**, and exploring **semantic search optimizations**.  
 - Open to collaborating on **open-source projects**, **AI-driven platforms**, and impactful tools.  
-- Ask me about **Databases**, **Deep Learning**, **AI/ML**, **data engineering**, or **deploying scalable applications**.  
 - Goal: To build solutions that make a real difference in industries like **healthcare**, **finance**, and **education**.
 
 ---
