@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Mukesh Reddy</h1>
 </div>
-I have worked across the data spectrum, starting as a Data Analyst building dashboards and data preprocessing workflows, then moving into Data Engineering where I designed and maintained large-scale cloud data pipelines using AWS, Databricks, Kafka, Snowflake, and ML platforms. Working across multiple client and academic projects, I gained experience handling production-scale data systems and understanding how analytics, engineering, and ML come together in real-world environments. I worked in small, fast-moving teams, contributing across analytics engineering, data engineering, and AI engineering, including healthcare-focused data modeling, compliant research analytics, and AI-driven solutions for statistical analysis and hypothesis generation.
+I have worked across the data spectrum, starting into Data Engineering where I designed and maintained large-scale cloud data pipelines using AWS, Databricks, Kafka, Snowflake, and ML platforms. Working across multiple client and academic projects, I gained experience handling production-scale data systems and understanding how analytics, engineering, and ML come together in real-world environments. I worked in small, fast-moving teams, contributing across analytics engineering, data engineering, and AI engineering, including healthcare-focused data modeling, compliant research analytics, and AI-driven solutions for statistical analysis.
 
 ### 🚀 About Me
 
