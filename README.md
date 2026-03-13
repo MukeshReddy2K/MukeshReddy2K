@@ -87,8 +87,8 @@ Senior AI/ML Engineer focused on agentic AI systems, LLM orchestration, and prod
 
 ### 🤝 Let's Connect!
 
-- 💼 **LinkedIn**: [Mukesh Reddy on LinkedIn](https://www.linkedin.com/in/mukeshmavurapu14/)  
-- 📧 **Email**: [mukeshreddymavurapu@gmail.com](mailto:mukeshm1144@gmail.com)  
+- 💼 **LinkedIn**: [Mukesh on LinkedIn](https://www.linkedin.com/in/mukeshmavurapu14/)  
+- 📧 **Email**: [mukeshm1144@gmail.com](mailto:mukeshm1144@gmail.com)  
 - 🐦 **Twitter**: [@MMukeshReddy3](https://x.com/MMukeshReddy3)  
 
 <div align="center">
