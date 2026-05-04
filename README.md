@@ -75,6 +75,7 @@ Senior AI/ML Engineer focused on agentic AI systems, LLM orchestration, and prod
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
 ---
